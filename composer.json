@@ -1,5 +1,5 @@
 {
-    "name": "alex/app-refactoring",
+    "name": "alexzayka/app-refactoring",
     "type": "project",
     "autoload": {
         "psr-4": {

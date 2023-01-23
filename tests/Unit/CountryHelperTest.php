@@ -1,4 +1,6 @@
-<?php
+<?php declare(strict_types=1);
+
+namespace Unit;
 
 use App\Helpers\CountryHelper;
 use PHPUnit\Framework\TestCase;
